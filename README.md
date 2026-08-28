@@ -1,4 +1,4 @@
-### Hi, I'm Uwe (dr-ni) 👋
+### Hi, I'm Uwe
 
 Linux developer based in Germany. Currently working as senior software developer. I also maintain a handful of accessibility, embedded, and home-automation projects in my spare time.
 
