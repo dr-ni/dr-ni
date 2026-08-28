@@ -2,9 +2,9 @@
 
 Linux developer based in Germany. Currently working as senior software developer. I also maintain a handful of accessibility, embedded, and home-automation projects in my spare time.
 
-🎓 Formerly a researcher at the University of Stuttgart (Dr.-Ing.), working on UAV-based remote sensing of landslides — see my [Google Scholar profile](https://scholar.google.com/citations?user=KCjhgO4AAAAJ&hl=de).
+🎓 Formerly a researcher at the University of Stuttgart (Dr.-Ing.), working on UAV-based remote sensing of landslides - see my [Google Scholar profile](https://scholar.google.com/citations?user=KCjhgO4AAAAJ&hl=de).
 
-- 🔧 Main admin and reworker of [onboard-osk/onboard](https://github.com/onboard-osk/onboard) — on-screen keyboard for users who can't use a hardware keyboard
+- 🔧 Main admin and reworker of [onboard-osk/onboard](https://github.com/onboard-osk/onboard) - on-screen keyboard for users who can't use a hardware keyboard
 - ♿ Accessibility tools: [tobii4c](https://github.com/dr-ni/tobii4c) (Tobii 4C eye-tracking), [trezor-gpg-setup](https://github.com/dr-ni/trezor-gpg-setup) (Trezor-backed GPG/SSH signing)
 - 🌞 Home & solar: [mi600](https://github.com/dr-ni/mi600) (Bosswerk/Deye inverter data access), [123solar_mi600](https://github.com/dr-ni/123solar_mi600)
 - 📡 Networking/embedded: [mmsmsd](https://github.com/dr-ni/mmsmsd) (bash SMS daemon for ModemManager), [apk-backup](https://github.com/dr-ni/apk-backup) (OpenWrt package-list backup)
